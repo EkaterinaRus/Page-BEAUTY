@@ -1,1 +1,1 @@
-### Page-BEAUTY
+### Верстка сайта из макета Figma с использование HTML и CSS Flexbox & Grid в разных блоках.
